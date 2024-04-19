@@ -1,0 +1,96 @@
+{
+  "timestamp": "2024-02-10T10:00:00",
+  "floor": "0",
+  "camera_id": "AA0",
+  "parking_spaces": [
+    {"id": "AA001", "status": "free"},
+    {"id": "AA002", "status": "occupied"},
+    {"id": "AA003", "status": "free"},
+    {"id": "AA004", "status": "free"},
+    {"id": "AA005", "status": "pending"},
+    {"id": "AA006", "status": "free"},
+    {"id": "AA007", "status": "occupied"},
+    {"id": "AA008", "status": "free"},
+    {"id": "AA009", "status": "free"}
+  ]
+}
+{
+  "timestamp": "2024-02-10T10:00:00",
+  "floor": "0",
+  "camera_id": "BB0",
+  "parking_spaces": [
+    {"id": "BB001", "status": "free"},
+    {"id": "BB002", "status": "free"},
+    {"id": "BB003", "status": "occupied"},
+    {"id": "BB004", "status": "free"},
+    {"id": "BB005", "status": "free"},
+    {"id": "BB006", "status": "free"},
+    {"id": "BB007", "status": "occupied"},
+    {"id": "BB008", "status": "free"},
+    {"id": "BB009", "status": "free"}
+  ]
+}
+{
+  "timestamp": "2024-02-10T10:00:00",
+  "floor": "0",
+  "camera_id": "CC0",
+  "parking_spaces": [
+    {"id": "CC001", "status": "free"},
+    {"id": "CC002", "status": "occupied"},
+    {"id": "CC003", "status": "free"},
+    {"id": "CC004", "status": "free"},
+    {"id": "CC005", "status": "free"},
+    {"id": "CC006", "status": "occupied"},
+    {"id": "CC007", "status": "free"},
+    {"id": "CC008", "status": "free"},
+    {"id": "CC009", "status": "free"}
+  ]
+}
+{
+  "timestamp": "2024-02-10T10:00:00",
+  "floor": "0",
+  "camera_id": "DD0",
+  "parking_spaces": [
+    {"id": "DD001", "status": "occupied"},
+    {"id": "DD002", "status": "free"},
+    {"id": "DD003", "status": "free"},
+    {"id": "DD004", "status": "free"},
+    {"id": "DD005", "status": "free"},
+    {"id": "DD006", "status": "free"},
+    {"id": "DD007", "status": "free"},
+    {"id": "DD008", "status": "occupied"},
+    {"id": "DD009", "status": "free"}
+  ]
+}
+{
+  "timestamp": "2024-02-10T10:00:00",
+  "floor": "0",
+  "camera_id": "EE0",
+  "parking_spaces": [
+    {"id": "EE001", "status": "free"},
+    {"id": "EE002", "status": "free"},
+    {"id": "EE003", "status": "free"},
+    {"id": "EE004", "status": "occupied"},
+    {"id": "EE005", "status": "occupied"},
+    {"id": "EE006", "status": "free"},
+    {"id": "EE007", "status": "free"},
+    {"id": "EE008", "status": "free"},
+    {"id": "EE009", "status": "free"}
+  ]
+}
+{
+  "timestamp": "2024-02-10T10:00:00",
+  "floor": "0",
+  "camera_id": "FF0",
+  "parking_spaces": [
+    {"id": "FF001", "status": "free"},
+    {"id": "FF002", "status": "occupied"},
+    {"id": "FF003", "status": "free"},
+    {"id": "FF004", "status": "free"},
+    {"id": "FF005", "status": "occupied"},
+    {"id": "FF006", "status": "free"},
+    {"id": "FF007", "status": "free"},
+    {"id": "FF008", "status": "free"},
+    {"id": "FF009", "status": "occupied"}
+  ]
+}
